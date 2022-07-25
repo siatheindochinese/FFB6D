@@ -3,7 +3,7 @@ numpy
 torch==1.7.1
 torchvision==0.2.0
 #yaml
-pyyaml
+pyyaml==5.4
 #pprint
 enum34
 future
